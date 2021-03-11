@@ -1,0 +1,1788 @@
+{
+  "Music1": {
+    "Easy": {
+      "ScoreDataModels": [
+        {
+          "Time": 2.889,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 2.889,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 2.889,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 2,
+          "Direction": 0
+        },
+        {
+          "Time": 2.889,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 2,
+          "Direction": 0
+        },
+        {
+          "Time": 4.044,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 4.334,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 4.827,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 5.248,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 5.379,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 5.916,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 6.264,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 2
+        },
+        {
+          "Time": 6.714,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 6
+        },
+
+        {
+          "Time": 7.340,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 7.63,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 8.123,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 8.544,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 8.675,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 9.212,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 9.560,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 6
+        },
+        {
+          "Time": 9.560,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 2
+        },
+        {
+          "Time": 10.01,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 10.01,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 4
+        },
+
+        {
+          "Time": 10.765,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 11.055,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 11.548,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 11.969,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 12.100,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 1,
+          "Direction": 2
+        },
+        {
+          "Time": 12.637,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 12.985,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 13.435,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+
+        {
+          "Time": 14.200,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 14.490,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 14.983,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 15.404,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 15.535,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 0,
+          "Direction": 6
+        },
+        {
+          "Time": 16.072,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 16.420,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 16.870,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 16.870,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+
+        {
+          "Time": 17.613,
+          "EndTime": 20.472,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 3,
+          "Direction": 2
+        },
+        {
+          "Time": 17.613,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 17.831,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 18.049,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 18.267,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 18.485,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 18.703,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 18.921,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 19.139,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 19.357,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 19.575,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 19.793,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 20.011,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 20.229,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 20.447,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        },
+
+        {
+          "Time": 20.665,
+          "EndTime": 23.935,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 3,
+          "Direction": 1
+        },
+        {
+          "Time": 20.665,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 20.833,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 21.101,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 21.319,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 21.573,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 21.755,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 21.973,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 22.191,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 22.409,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 22.627,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 22.845,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 23.063,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 23.281,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 23.499,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 23.717,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 23.935,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 0
+        },
+
+
+        {
+          "Time": 24.104,
+          "EndTime": 26.964,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 3,
+          "Direction": 2
+        },
+        {
+          "Time": 24.104,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 24.553,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 24.770,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 25.024,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 25.372,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 25.829,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 26.046,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 26.467,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 26.684,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 27.136,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 2
+        },
+
+        {
+          "Time": 27.502,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 27.912,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 27.912,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 27.912,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 28.322,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 28.322,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 28.322,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 28.842,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 28.842,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 28.842,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 29.362,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 29.362,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 29.362,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 29.772,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 29.772,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 29.772,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 30.182,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 30.182,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 30.182,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 30.390,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 5
+        },
+        {
+          "Time": 30.390,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 5
+        },
+
+        {
+          "Time": 30.894,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 31.329,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 1,
+          "Direction": 2
+        },
+        {
+          "Time": 31.765,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 32.200,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+
+        {
+          "Time": 32.636,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 33.071,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 0,
+          "Direction": 6
+        },
+        {
+          "Time": 33.507,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 33.942,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+
+        {
+          "Time": 34.378,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 34.813,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 35.249,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 35.684,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 2
+        },
+
+        {
+          "Time": 36.120,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 2
+        },
+        {
+          "Time": 36.555,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 6
+        },
+        {
+          "Time": 36.991,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 36.991,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 37.427,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 37.427,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+
+        {
+          "Time": 37.758,
+          "EndTime": 39.269,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 3,
+          "Direction": 2
+        },
+        {
+          "Time": 37.758,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 37.758,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 39.137,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 39.137,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 39.269,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 39.269,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 4
+        },
+
+        {
+          "Time": 39.528,
+          "EndTime": 40.956,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 3,
+          "Direction": 0
+        },
+        {
+          "Time": 39.528,
+          "EndTime": 40.956,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 3,
+          "Direction": 0
+        },
+        {
+          "Time": 39.528,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 39.528,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 40.820,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 40.820,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 40.956,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 40.956,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+
+        {
+          "Time": 41.232,
+          "EndTime": 42.654,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 3,
+          "Direction": 1
+        },
+        {
+          "Time": 41.232,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 41.232,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 42.524,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 42.524,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 42.654,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 42.654,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 42.959,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 42.959,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 0,
+          "Direction": 0
+        },
+
+        {
+          "Time": 43.336,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 43.336,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 43.785,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 2
+        },
+        {
+          "Time": 43.872,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 6
+        },
+        {
+          "Time": 44.235,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 44.438,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 4
+        },
+
+        {
+          "Time": 44.639,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 44.856,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 45.074,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 45.291,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 45.509,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 45.726,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 45.944,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 46.161,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 46.379,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 46.596,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 46.814,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 47.031,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 47.249,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 47.466,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 47.684,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 47.901,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 4
+        },
+
+        {
+          "Time": 48.093,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 48.311,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 48.530,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 48.748,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 48.967,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 49.185,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 49.404,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 49.622,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 49.841,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 50.059,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 50.278,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 2
+        },
+        {
+          "Time": 50.496,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 6
+        },
+        {
+          "Time": 50.715,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 50.933,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 51.152,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 2
+        },
+        {
+          "Time": 51.370,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 6
+        },
+
+        {
+          "Time": 51.503,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 51.220,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 51.938,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 52.155,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 52.373,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 52.590,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 52.808,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 53.025,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 53.243,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 53.460,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 53.678,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 53.895,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 54.113,
+          "EndTime": 0.0,
+          "AppereLane": 2,
+          "JudgeLane": 2,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 54.330,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 54.548,
+          "EndTime": 0.0,
+          "AppereLane": 1,
+          "JudgeLane": 1,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 54.765,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 0
+        },
+
+        {
+          "Time": 54.919,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 4,
+          "NotesType": 1,
+          "Direction": 2
+        },
+        {
+          "Time": 54.919,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 3,
+          "NotesType": 0,
+          "Direction": 6
+        },
+        {
+          "Time": 55.356,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 55.356,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 55.793,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 0,
+          "NotesType": 1,
+          "Direction": 2
+        },
+        {
+          "Time": 55.793,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 7,
+          "NotesType": 0,
+          "Direction": 6
+        },
+        {
+          "Time": 56.230,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 3,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 56.230,
+          "EndTime": 0.0,
+          "AppereLane": 3,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 56.667,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 56.667,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 4
+        },
+        {
+          "Time": 57.104,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 4
+        },
+        {
+          "Time": 57.104,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 57.541,
+          "EndTime": 0.0,
+          "AppereLane": 7,
+          "JudgeLane": 7,
+          "NotesType": 1,
+          "Direction": 6
+        },
+        {
+          "Time": 57.541,
+          "EndTime": 0.0,
+          "AppereLane": 4,
+          "JudgeLane": 4,
+          "NotesType": 0,
+          "Direction": 2
+        },
+        {
+          "Time": 57.981,
+          "EndTime": 0.0,
+          "AppereLane": 6,
+          "JudgeLane": 6,
+          "NotesType": 1,
+          "Direction": 0
+        },
+        {
+          "Time": 57.981,
+          "EndTime": 0.0,
+          "AppereLane": 5,
+          "JudgeLane": 5,
+          "NotesType": 0,
+          "Direction": 0
+        }
+      ]
+    },
+    "Normal": {
+      "ScoreDataModels": [
+        {
+          "Time": 0,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 0,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        }
+      ]
+    },
+    "Hard": {
+      "ScoreDataModels": [
+        {
+          "Time": 0,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        },
+        {
+          "Time": 0,
+          "EndTime": 0.0,
+          "AppereLane": 0,
+          "JudgeLane": 0,
+          "NotesType": 0,
+          "Direction": 0
+        }
+      ]
+    }
+  }
+}

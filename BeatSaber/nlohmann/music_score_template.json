@@ -1,0 +1,143 @@
+{
+  "MusicScore": {
+    "MusicPath":,
+    "Easy": {
+      "ScoreDataModels": [
+        {
+          "Time":,
+          "EndTime":,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        {
+          "Time":,
+          "EndTime":,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        "︙"
+
+      ]
+    },
+    "Normal": {
+      "ScoreDataModels": [
+        {
+          "Time":,
+          "EndTime":,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        {
+          "Time":,
+          "EndTime":,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        "︙"
+
+      ]
+    },
+    "Hard": {
+      "ScoreDataModels": [
+        {
+          "Time":,
+          "EndTime":,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        {
+          "Time":,
+          "EndTime":,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        "︙"
+
+      ]
+    }
+  },
+
+  "MusicScore": {
+    "MusicPath":,
+    "Easy": {
+      "ScoreDataModels": [
+        {
+          "Time":,
+          "EndTime":,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        {
+          "Time": ,
+          "EndTime":,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        "︙"
+
+      ]
+    },
+    "Normal": {
+      "ScoreDataModels": [
+        {
+          "Time":,
+          "EndTime":,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        {
+          "Time": ,
+          "EndTime":,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        "︙"
+
+      ]
+    },
+    "Hard": {
+      "ScoreDataModels": [
+        {
+          "Time":,
+          "EndTime": ,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        {
+          "Time": ,
+          "EndTime": ,
+          "AppereLane":,
+          "JudgeLane":,
+          "NotesType":,
+          "Direction":
+        },
+        "︙"
+
+      ]
+    }
+  },
+	︙
+
+}

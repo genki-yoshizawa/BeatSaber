@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="VR">
+      <UniqueIdentifier>{c895f760-4649-441f-9735-2f3b9c7ee81b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VR\VRCamera">
+      <UniqueIdentifier>{6083658f-53c8-4c09-8f26-b61f5b88cb5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VR\VRHandle">
+      <UniqueIdentifier>{8e29b101-062a-478c-a19b-f3f07bb15e09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{06797034-3968-424b-9568-1bb3bea23761}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renderer">
+      <UniqueIdentifier>{c62e6f1a-25d3-4a17-9983-e28b017b4514}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ObjFileModel">
+      <UniqueIdentifier>{10f25169-5b03-4ba5-90c0-840496e9bfc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\TitleScene">
+      <UniqueIdentifier>{b14ddf28-4fa1-4f84-af15-e739fbc7002a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\MainScene">
+      <UniqueIdentifier>{2589e79b-c4d7-4745-be83-43d83bfd254f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\ResultScene">
+      <UniqueIdentifier>{d6655bb0-698f-46ab-838f-f0fd1958071b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{e4b50c86-6362-4065-a810-7da5b876ac24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="nlohmann">
+      <UniqueIdentifier>{11d321c8-6a5f-4ca0-bb7c-2d62e7ec6aa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameOption">
+      <UniqueIdentifier>{8c5f0329-3a2a-4398-9dea-5500982caf5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject">
+      <UniqueIdentifier>{ca80fbc2-7a0e-4901-a2f6-93e8c321418f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameManager">
+      <UniqueIdentifier>{c3c0017f-ae7f-4712-a914-52debb159c14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameHighScore">
+      <UniqueIdentifier>{eef0cec0-a5bc-44c8-a50e-0c4e02e3dc98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameAudio">
+      <UniqueIdentifier>{344a36c5-e884-4d82-9f67-5aa9b5c32ecb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fade">
+      <UniqueIdentifier>{ae437bdd-564d-4c47-9bc5-f0cb96b69f78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CreateMusicScore">
+      <UniqueIdentifier>{9436f22f-3ba2-40bf-8874-83a4126db5a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Board">
+      <UniqueIdentifier>{733076b1-e79b-4e08-a34b-3d58a7202bee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\GameMusic">
+      <UniqueIdentifier>{8613f750-4c14-4c0a-b6c1-207eab4aa88d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject">
+      <UniqueIdentifier>{ea086510-cc04-46f7-852b-fae8c2ce68d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\SecondarySceneObject">
+      <UniqueIdentifier>{c7cfbe64-ca20-43ae-9f90-1aa967a29b39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\WorldBackGround">
+      <UniqueIdentifier>{9633eecd-009d-4542-828b-87fcee387cc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Board\Button">
+      <UniqueIdentifier>{95c5f07a-8c27-4486-ab6e-81a608389aa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Board\NumberPlacard">
+      <UniqueIdentifier>{577f0b94-86ba-4696-84b9-09e88a7ec38b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Board\Placard">
+      <UniqueIdentifier>{e1b25c18-590d-4bf8-b886-b11e0ffd8a48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneAppereEffect">
+      <UniqueIdentifier>{0a64234e-5fee-4c42-9a89-32a2a68e9c54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneBomb">
+      <UniqueIdentifier>{bd0aa751-5077-4fbe-8d08-2afc04aa08cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneExploadEffect">
+      <UniqueIdentifier>{d9d54ad9-3bd2-4843-933a-54fdf782d35f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneField">
+      <UniqueIdentifier>{0df68905-f50c-42bf-ba0f-489dc472ba38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneHand">
+      <UniqueIdentifier>{0b2d74d6-75d0-4d29-8c78-25d3e0383c66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneLife">
+      <UniqueIdentifier>{6518f25f-67d3-4973-bd94-3b5f0da7dfa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneNotes">
+      <UniqueIdentifier>{c95ce70c-ad97-4928-9cd4-c77269daf6f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainScenePointUI">
+      <UniqueIdentifier>{8c737f52-c654-43b9-b917-b73790c7ee48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneScoreUI">
+      <UniqueIdentifier>{41e13064-c45b-4531-b9a8-96576ca8d2ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneWall">
+      <UniqueIdentifier>{a3cc40e5-4401-4952-87f4-92c9faf0f61e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\SecondarySceneObject\SecondarySceneDecotarionObject">
+      <UniqueIdentifier>{40057f93-4677-43b1-b1c7-7d2f083c957d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\SecondarySceneObject\SecondarySceneGround">
+      <UniqueIdentifier>{43279997-0307-4906-a5a7-72dba5d05ff6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\SecondarySceneObject\SecondarySceneHand">
+      <UniqueIdentifier>{7298a992-4a8e-4e31-bc92-d6ccd3be75a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneHand\MainSceneHandEffect">
+      <UniqueIdentifier>{a2ced91d-36cb-4a87-9786-73caefca5b36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneBackGroundTable">
+      <UniqueIdentifier>{602982b6-8bce-4167-adbe-e96d5e07a49a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\MainSceneObject\MainSceneBackGroundLight">
+      <UniqueIdentifier>{9bfd2f31-c20a-4fdd-a9a4-11fbae3c2f46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bloom">
+      <UniqueIdentifier>{5ea3dd0f-63df-49d7-8713-d9e4bbe798ef}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="model.cpp" />
+    <ClCompile Include="VR\VRCamera\VRCamera.cpp">
+      <Filter>VR\VRCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="VR\VRHandle\VRHandle.cpp">
+      <Filter>VR\VRHandle</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\Scene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\MainScene\MainScene.cpp">
+      <Filter>Scene\MainScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\ResultScene\ResultScene.cpp">
+      <Filter>Scene\ResultScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer\Renderer.cpp">
+      <Filter>Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjFileModel\ObjFileModel.cpp">
+      <Filter>ObjFileModel</Filter>
+    </ClCompile>
+    <ClCompile Include="Main\Main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateMusicScore\CreateMusicScore.cpp">
+      <Filter>CreateMusicScore</Filter>
+    </ClCompile>
+    <ClCompile Include="Fade\Fade.cpp">
+      <Filter>Fade</Filter>
+    </ClCompile>
+    <ClCompile Include="GameAudio\GameAudio.cpp">
+      <Filter>GameAudio</Filter>
+    </ClCompile>
+    <ClCompile Include="GameHighScore\GameHighScore.cpp">
+      <Filter>GameHighScore</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager\GameManager.cpp">
+      <Filter>GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOption\GameOption.cpp">
+      <Filter>GameOption</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\GameObject.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\WorldBackGround\WorldBackGround.cpp">
+      <Filter>GameObject\WorldBackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\GameMusic\GameMusic.cpp">
+      <Filter>GameObject\GameMusic</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Board\Button\Button.cpp">
+      <Filter>GameObject\Board\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Board\NumberPlacard\NumberPlacard.cpp">
+      <Filter>GameObject\Board\NumberPlacard</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Board\Placard\Placard.cpp">
+      <Filter>GameObject\Board\Placard</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Board\Board.cpp">
+      <Filter>GameObject\Board</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneAppereEffect\MainSceneAppereEffect.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneAppereEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneBomb\MainSceneBomb.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneBomb</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneExplodeEffect\MainSceneExplodeEffect.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneExploadEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneHand\MainSceneHand.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneHand</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneLife\MainSceneLife.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneLife</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneNotes\MainSceneNotes.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneNotes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneScoreUI\MainSceneScoreUI.cpp">
+      <Filter>GameObject\MainSceneObject\MainScenePointUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainScenePointUI\MainScenePointUI.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneScoreUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneWall\MainSceneWall.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneWall</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneField\MainSceneField.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneField</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\SecondarySceneObject\SecondarySceneDecorationObject\SecondarySceneDecorationObject.cpp">
+      <Filter>GameObject\SecondarySceneObject\SecondarySceneDecotarionObject</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\SecondarySceneObject\SecondarySceneGround\SecondarySceneGround.cpp">
+      <Filter>GameObject\SecondarySceneObject\SecondarySceneGround</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\SecondarySceneObject\SecondarySceneHand\SecondarySceneHand.cpp">
+      <Filter>GameObject\SecondarySceneObject\SecondarySceneHand</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\TitleScene\TitleScene.cpp">
+      <Filter>Scene\TitleScene</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneHand\MainSceneHandEffect\MainSceneHandEffect.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneHand\MainSceneHandEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneBackGroundTable\MainSceneBackGroundTable.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneBackGroundTable</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\MainSceneObject\MainSceneBackGroundLight\MainSceneBackGroundLight.cpp">
+      <Filter>GameObject\MainSceneObject\MainSceneBackGroundLight</Filter>
+    </ClCompile>
+    <ClCompile Include="Bloom\Bloom.cpp">
+      <Filter>Bloom</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="model.h" />
+    <ClInclude Include="VR\VRCamera\VRCamera.h">
+      <Filter>VR\VRCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="VR\VRHandle\VRHandle.h">
+      <Filter>VR\VRHandle</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\Scene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\MainScene\MainScene.h">
+      <Filter>Scene\MainScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\ResultScene\ResultScene.h">
+      <Filter>Scene\ResultScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\TitleScene\TitleScene.h">
+      <Filter>Scene\TitleScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer\Renderer.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjFileModel\ObjFileModel.h">
+      <Filter>ObjFileModel</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\json.hpp">
+      <Filter>nlohmann</Filter>
+    </ClInclude>
+    <ClInclude Include="Main\Main.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateMusicScore\CreateMusicScore.h">
+      <Filter>CreateMusicScore</Filter>
+    </ClInclude>
+    <ClInclude Include="Fade\Fade.h">
+      <Filter>Fade</Filter>
+    </ClInclude>
+    <ClInclude Include="GameAudio\GameAudio.h">
+      <Filter>GameAudio</Filter>
+    </ClInclude>
+    <ClInclude Include="GameHighScore\GameHighScore.h">
+      <Filter>GameHighScore</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager\GameManager.h">
+      <Filter>GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOption\GameOption.h">
+      <Filter>GameOption</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\GameObject.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\WorldBackGround\WorldBackGround.h">
+      <Filter>GameObject\WorldBackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\GameMusic\GameMusic.h">
+      <Filter>GameObject\GameMusic</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Board\Button\Button.h">
+      <Filter>GameObject\Board\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Board\NumberPlacard\NumberPlacard.h">
+      <Filter>GameObject\Board\NumberPlacard</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Board\Placard\Placard.h">
+      <Filter>GameObject\Board\Placard</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Board\Board.h">
+      <Filter>GameObject\Board</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneAppereEffect\MainSceneAppereEffect.h">
+      <Filter>GameObject\MainSceneObject\MainSceneAppereEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneBomb\MainSceneBomb.h">
+      <Filter>GameObject\MainSceneObject\MainSceneBomb</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneExplodeEffect\MainSceneExplodeEffect.h">
+      <Filter>GameObject\MainSceneObject\MainSceneExploadEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneField\MainSceneField.h">
+      <Filter>GameObject\MainSceneObject\MainSceneField</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneHand\MainSceneHand.h">
+      <Filter>GameObject\MainSceneObject\MainSceneHand</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneLife\MainSceneLife.h">
+      <Filter>GameObject\MainSceneObject\MainSceneLife</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneNotes\MainSceneNotes.h">
+      <Filter>GameObject\MainSceneObject\MainSceneNotes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainScenePointUI\MainScenePointUI.h">
+      <Filter>GameObject\MainSceneObject\MainScenePointUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneScoreUI\MainSceneScoreUI.h">
+      <Filter>GameObject\MainSceneObject\MainSceneScoreUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneWall\MainSceneWall.h">
+      <Filter>GameObject\MainSceneObject\MainSceneWall</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\SecondarySceneObject\SecondarySceneDecorationObject\SecondarySceneDecorationObject.h">
+      <Filter>GameObject\SecondarySceneObject\SecondarySceneDecotarionObject</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\SecondarySceneObject\SecondarySceneGround\SecondarySceneGround.h">
+      <Filter>GameObject\SecondarySceneObject\SecondarySceneGround</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\SecondarySceneObject\SecondarySceneHand\SecondarySceneHand.h">
+      <Filter>GameObject\SecondarySceneObject\SecondarySceneHand</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneHand\MainSceneHandEffect\MainSceneHandEffect.h">
+      <Filter>GameObject\MainSceneObject\MainSceneHand\MainSceneHandEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneBackGroundTable\MainSceneBackGroundTable.h">
+      <Filter>GameObject\MainSceneObject\MainSceneBackGroundTable</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\MainSceneObject\MainSceneBackGroundLight\MainSceneBackGroundLight.h">
+      <Filter>GameObject\MainSceneObject\MainSceneBackGroundLight</Filter>
+    </ClInclude>
+    <ClInclude Include="Bloom\Bloom.h">
+      <Filter>Bloom</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="pixelShader.hlsl" />
+    <FxCompile Include="vertexShader.hlsl" />
+    <FxCompile Include="mainSceneBackGroundTableVS.hlsl" />
+    <FxCompile Include="mainSceneBackGroundTablePS.hlsl" />
+    <FxCompile Include="mainSceneBackGroundLightVS.hlsl" />
+    <FxCompile Include="common.hlsl" />
+    <FxCompile Include="bloomVS.hlsl" />
+    <FxCompile Include="bloomPS.hlsl" />
+    <FxCompile Include="bloomLuminanceVS.hlsl" />
+    <FxCompile Include="bloomLuminancePS.hlsl" />
+    <FxCompile Include="bloomFilterXVS.hlsl" />
+    <FxCompile Include="bloomFilterXPS.hlsl" />
+    <FxCompile Include="bloomFilterYVS.hlsl" />
+    <FxCompile Include="bloomFilterYPS.hlsl" />
+    <FxCompile Include="mainSceneBackGroundLightPS.hlsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="nlohmann\music_score.json">
+      <Filter>nlohmann</Filter>
+    </None>
+  </ItemGroup>
+</Project>
